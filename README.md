@@ -79,43 +79,7 @@ It combines **ResNet50** feature extraction with a **Multi-Head Attention mechan
 
 ---
 
-## ⚡ Quick Start (How to Run)
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/Krishnasah206/Monkeypox-Detection.git
-cd Monkeypox-Detection
 ````
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Prepare Dataset
-
-* Download the dataset from [MSID on Kaggle](https://www.kaggle.com/datasets/arafathussain/monkeypox-skin-disease-dataset).
-* Organize into folders:
-
-  ```
-  Monkeypox_Skin_Image_Dataset/
-      train/
-      validation/
-      test/
-  ```
-
-### 4. Train Model
-
-```bash
-python train.py
-```
-
-### 5. Evaluate Model
-
-```bash
-python evaluate.py
-```
 
 ---
 
