@@ -1,4 +1,3 @@
-````markdown
 # 🐒 Monkeypox Skin Image Detection (MSID) using ResNet50 + Multi-Head Attention
 
 This project implements an **Enhanced Monkeypox Detection Model** using the **Monkeypox Skin Image Dataset (MSID)**.  
@@ -79,22 +78,20 @@ It combines **ResNet50** feature extraction with a **Multi-Head Attention mechan
 
 ---
 
-````
-
 ---
 
 ## 📜 Citation
 
 If you use this work, please cite:
 
-```
+
 @inproceedings{sah2025monkeypox,
   title={An Enhanced Monkeypox Detection Model with Deep Residual Networks based Multi-Head Attention Approach},
   author={Gupta, Shashi Kumar and Sah, Krishna Kumar and Raut, Ankush and Muduli, Debendra and Sharma, Santosh Kumar and Jaysawal, Bishal},
   booktitle={Proceedings of the 16th International Conference on Computing Communication and Networking Technologies (ICCCNT)},
   year={2025}
 }
-```
+
 
 ---
 
@@ -110,6 +107,4 @@ If you use this work, please cite:
 ## 👨‍💻 Author
 
 * **Krishna Kumar Sah**
-  [GitHub](https://github.com/Krishnasah206) | [LinkedIn](https://linkedin.com/in/krishna-sah)
-
-```
+  [GitHub](https://github.com/Krishnasah206) | [LinkedIn](https://www.linkedin.com/in/krishnasah2060/)
